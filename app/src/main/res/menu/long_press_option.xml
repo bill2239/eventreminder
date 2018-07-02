@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/save"
+        android:title="@string/save"
+        android:orderInCategory="100"/>
+    <item
+        android:id="@+id/remind"
+        android:title="@string/remind"
+        android:orderInCategory="101"/>
+    <item
+        android:id="@+id/navi"
+        android:title="@string/navi"
+        android:orderInCategory="101"/>
+    <item
+        android:id="@+id/delete"
+        android:title="@string/delete"
+        android:orderInCategory="101"/>
+</menu>

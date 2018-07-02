@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <SwitchPreference
+    android:key="switch_driving_mode"
+    android:title="@string/pref_switch_driving_mode"
+    android:defaultValue="false" />
+</PreferenceScreen>
